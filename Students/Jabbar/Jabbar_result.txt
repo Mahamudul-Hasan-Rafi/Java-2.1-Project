@@ -1,0 +1,8 @@
+Student:     Jabbar
+Course:     Java
+Topic:     MCQ + Code
+Wrong (MCQ):     4
+Error (Code):     4
+Total Marks:     54
+Obtained Marks:    32
+Percentage:     59%

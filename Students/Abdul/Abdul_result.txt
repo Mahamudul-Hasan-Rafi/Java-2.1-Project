@@ -1,0 +1,8 @@
+   Student:     Abdul
+   Course:     Java
+   Topic:     MCQ + Code
+Wrong (MCQ):     5
+Error (Code):     4
+Total Marks:     69
+Obtained Marks:    35
+Percentage:     50%

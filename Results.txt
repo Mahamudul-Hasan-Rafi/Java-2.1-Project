@@ -1,0 +1,3 @@
+   Name    Course    MCQ(wrong)    Code(error)    Total Marks    Obtained    Percentage 
+   Jabbar    Java           4                          5                  45                   32               72
+   Kalu        C               3                          4                  35                   25               80
